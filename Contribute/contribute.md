@@ -1,4 +1,4 @@
-# Want to Contribute
+# Want to Contribute?
 
 Use this page to submit content updates to the wiki through GitHub pull requests.
 
